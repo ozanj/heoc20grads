@@ -1,0 +1,23 @@
+---
+title: 'HEOC Commencement'
+mode: selfcontained
+framework: revealjs
+revealjs:
+  theme: custom
+  transition: linear
+  center: 'false'
+--- 
+
+```{r, include=FALSE}
+library(slidify)
+library(slidifyLibraries)
+# slidify('index.Rmd')
+# https://ozanj.github.io/heoc20grads/
+
+library(servr)
+# Start server: servr::httd()
+# Check if server(s) running: daemon_list()
+# Stop server(s): daemon_stop(which = daemon_list())
+```
+
+
