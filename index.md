@@ -105,11 +105,6 @@ June 20, 2020
     <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
   </div>
   <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </section><section><h1>Jenny Lee, Ph.D.</h1>
-  <div class="img-wrapper">
-    <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-  </div>
-  <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
   </section><section><h1>Kari George, Ph.D.</h1>
   <div class="img-wrapper">
     <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
