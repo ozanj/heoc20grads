@@ -63,6 +63,12 @@ body {
   margin: 20px auto;
 }
 
+.reveal .layout img {
+  width: 500px;
+  margin: 10px auto;
+  border: 1px solid gray;
+}
+
 /* Layout */
 
 .reveal .color-box {

@@ -58,9 +58,28 @@ Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC7
 
 ![](http://brand.ucla.edu/images/identity/colors/id-colors-usage.jpg)
 
+--- .info .layout
+
+# Layout A
+
+<br>
+
+**Specifications**
+
+Two-column layout
+
+Each column can be portrait image OR 1-2 pieces of text
+
+<br>
+
+**Permutations**
+
+![](assets/images/layoutA.svg)
+
+
 --- &twocol
 
-# Layout A1
+# Layout A permutation example
 
 ### (Dissertation title)<br>Chair/Advisor
 
@@ -75,7 +94,7 @@ Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC7
 
 --- &twocol
 
-# Layout A2
+# Layout A permutation example
 
 ### (Dissertation title)<br>Chair/Advisor
 
@@ -87,9 +106,27 @@ Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC7
 
 <div class="img-wrapper"><img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=200"></div>
 
----
+--- .info .layout
 
 # Layout B
+
+<br>
+
+**Specifications**
+
+One-column layout
+
+Either one large landscape image OR large text
+
+<br>
+
+**Permutations**
+
+![](assets/images/layoutB.svg)
+
+---
+
+# Layout B permutation example
 
 ### (Dissertation title)<br>Chair/Advisor
 
@@ -99,7 +136,7 @@ Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC7
 
 ---
 
-# Layout X
+# Layout X permutation example
 
 ### (Dissertation title)<br>Chair/Advisor
 
