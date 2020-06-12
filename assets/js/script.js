@@ -28,4 +28,10 @@ $(function() {
     document.querySelector('#slides-music').play();
   });
   
+  $('.theme-button').on('click', function(e) {
+    var theme = e.target.innerHTML;
+    var el = document.getElementById('theme');
+    el.href = `libraries/frameworks/revealjs/css/theme/${theme}.css`;
+  })
+  
 });

@@ -17,14 +17,17 @@ June 20, 2020
 <div class="slides-wrapper">
 
 <div class="slide">
-    <img src="./assets/slideshow/pic1.jpeg" style="width:100%">
+    <img src="./assets/slideshow/pic1.jpeg">
   </div><div class="slide">
-    <img src="./assets/slideshow/pic2.jpeg" style="width:100%">
+    <img src="./assets/slideshow/pic2.jpeg">
   </div><div class="slide">
-    <img src="./assets/slideshow/pic3.jpeg" style="width:100%">
+    <img src="./assets/slideshow/pic3.jpeg">
   </div>
 
 </div>
+
+<button class="theme-button">theme1</button>
+<button class="theme-button">theme2</button>
 
 <audio loop data-autoplay id="slides-music">
   <source src="./assets/audio/pomp-and-circumstance.mp3" type="audio/mpeg">
@@ -32,9 +35,9 @@ June 20, 2020
 
 --- &twocol
 
-# Layout A
+# Layout A1
 
-### Dissertation <br> Chair
+### Dissertation<br>Chair
 
 *** =left
 
@@ -43,6 +46,41 @@ June 20, 2020
 *** =right
 
 <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
+<div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
+
+--- &twocol
+
+# Layout A2
+
+### Dissertation<br>Chair
+
+*** =left
+
+<div class="img-wrapper"><img src="https://images.unsplash.com/photo-1504826260979-242151ee45b7?w=200"></div>
+
+*** =right
+
+<div class="img-wrapper"><img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=200"></div>
+
+---
+
+# Layout B
+
+### Dissertation<br>Chair
+
+*** =info
+
+<div class="img-wrapper"><img src="https://images.unsplash.com/photo-1445499348736-29b6cdfc03b9?w=900"></div>
+
+---
+
+# Layout X
+
+### Dissertation<br>Chair
+
+*** =info
+
+<div class="img-wrapper"><img src="https://images.unsplash.com/photo-1445499348736-29b6cdfc03b9?w=900"></div>
 
 <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
 
