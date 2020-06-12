@@ -3,6 +3,7 @@
 <head>
   {{> head }}
   {{{ page.stylesheets }}}
+  <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
 </head>
 <body>
   <div class="reveal">
@@ -15,4 +16,5 @@
   <script src="{{page.url.framework}}/js/reveal.min.js"></script>
   {{> initialize }}
   {{> javascripts }}
+  {{{ page.assets.js }}}
 </html>

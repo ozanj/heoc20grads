@@ -1,0 +1,47 @@
+/* Universal */
+
+body {
+  background-image: linear-gradient(#FAFAFA, #8BB8E8);
+}
+
+.reveal h1 {
+  color: #FFB81C;
+}
+
+.reveal h2 {
+  color: #003B5C;
+}
+
+.reveal .slide-background:before {
+  background: url('/assets/images/grad_cap.png');
+  background-size: 70%;
+  opacity: 0.2;
+  top: -40px;
+}
+
+/* Controls */
+
+.reveal .progress {
+  color: #FFD100;
+}
+
+/* Title */
+
+#slide-1 h1, #slide-1 p {
+  color: black;
+}
+
+/* Components */
+
+.reveal .quote {
+  color: #FFC72C;
+  background-color: #003B5C;
+}
+
+.reveal .img-wrapper {
+  background-color: #003B5C;
+}
+
+.reveal h3 {
+  color: black;
+}

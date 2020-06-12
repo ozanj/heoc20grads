@@ -3,10 +3,10 @@ title: 'HEOC Commencement'
 mode: selfcontained
 framework: revealjs
 revealjs:
-  theme: custom
+  theme: theme1
   transition: linear
   center: 'false'
---- 
+---
 
 ```{r, include=FALSE}
 library(slidify)
@@ -24,7 +24,40 @@ library(servr)
 
 June 20, 2020
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kw-_Ew5bVxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="slides-wrapper">
+
+```{r, echo=FALSE, results='asis'}
+img_dir <- file.path('.', 'assets', 'slideshow')
+images <- list.files(img_dir)
+
+for (i in images) {
+  cat('<div class="slide">
+    <img src="', file.path(img_dir, i), '" style="width:100%">
+  </div>', sep = '')
+}
+```
+
+</div>
+
+<audio loop data-autoplay id="slides-music">
+  <source src="./assets/audio/pomp-and-circumstance.mp3" type="audio/mpeg">
+</audio>
+
+--- &twocol
+
+# Layout A
+
+### Dissertation <br> Chair
+
+*** =left
+
+<div class="img-wrapper"><img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=200"></div>
+
+*** =right
+
+<div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
+
+<div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
 
 ---
 
@@ -36,12 +69,16 @@ June 20, 2020
 students <- read.csv('./assets/data/master.csv', na.strings=c('', 'NA'), stringsAsFactors = F)
 
 for (i in 1:nrow(students)) {
-  cat('<section><h1>', students[i, 'name'], ', M.A.</h1>
-  <div class="img-wrapper">
-    <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
+  cat('<section><h1>', students[i, 'name'], ', M.A.</h1><h3>Advisor</h3><div class="container">
+  <div class="left">
+    <div class="img-wrapper">
+      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
+    </div>
   </div>
-  <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </section>', sep = '')
+  <div class="right">
+    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
+  </div>
+  </div></section>', sep = '')
 }
 ```
 
@@ -55,15 +92,21 @@ for (i in 1:nrow(students)) {
 students <- read.csv('./assets/data/phd.csv', na.strings=c('', 'NA'), stringsAsFactors = F)
 
 for (i in 1:nrow(students)) {
-  cat('<section><h1>', students[i, 'name'], ', Ph.D.</h1>
-  <div class="img-wrapper">
-    <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
+  cat('<section><h1>', students[i, 'name'], ', Ph.D.</h1><h3>Dissertation<br>Chair</h3><div class="container">
+  <div class="left">
+    <div class="img-wrapper">
+      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
+    </div>
   </div>
-  <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </section>', sep = '')
+  <div class="right">
+    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
+  </div>
+  </div></section>', sep = '')
 }
 ```
 
 ---
 
 ## Congratulations!
+
+<iframe width="560" height="315" style="margin-top:20px" src="https://www.youtube.com/embed/Kw-_Ew5bVxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
