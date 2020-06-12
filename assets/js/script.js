@@ -32,6 +32,16 @@ $(function() {
     var theme = e.target.innerHTML;
     var el = document.getElementById('theme');
     el.href = `libraries/frameworks/revealjs/css/theme/${theme}.css`;
-  })
+  });
+  
+  $('.bg-button').on('click', function(e) {
+    if (e.target.dataset.bg === 'on') {
+      $('.slide-background').addClass('hide');
+      e.target.dataset.bg = 'off';
+    } else {
+      $('.slide-background').removeClass('hide');
+      e.target.dataset.bg = 'on';
+    }
+  });
   
 });

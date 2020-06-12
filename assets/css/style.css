@@ -35,6 +35,10 @@ body {
   height: 100%;
 }
 
+.reveal .slide-background.hide:before {
+  opacity: 0;
+}
+
 .container {
   display: flex;
   justify-content: space-around;

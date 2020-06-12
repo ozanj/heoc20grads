@@ -28,6 +28,7 @@ June 20, 2020
 
 <button class="theme-button">theme1</button>
 <button class="theme-button">theme2</button>
+<button class="bg-button" data-bg="on">toggle bg</button>
 
 <audio loop data-autoplay id="slides-music">
   <source src="./assets/audio/pomp-and-circumstance.mp3" type="audio/mpeg">
