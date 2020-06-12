@@ -134,9 +134,27 @@ Either one large landscape image OR large text
 
 <div class="img-wrapper"><img src="https://images.unsplash.com/photo-1445499348736-29b6cdfc03b9?w=900"></div>
 
+--- .info .layout
+
+# Layout C
+
+<br>
+
+**Specifications**
+
+Large landscape image on left
+
+1-2 pieces of text on right
+
+<br>
+
+**Permutations**
+
+![](assets/images/layoutC.svg)
+
 ---
 
-# Layout X permutation example
+# Layout C permutation example
 
 ### (Dissertation title)<br>Chair/Advisor
 
@@ -145,6 +163,23 @@ Either one large landscape image OR large text
 <div class="img-wrapper"><img src="https://images.unsplash.com/photo-1445499348736-29b6cdfc03b9?w=900"></div>
 
 <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
+
+---
+
+# Layout C permutation example
+
+### (Dissertation title)<br>Chair/Advisor
+
+*** =info
+
+<div class="img-wrapper"><img src="https://images.unsplash.com/photo-1445499348736-29b6cdfc03b9?w=900"></div>
+
+<div class="flex-container">
+
+<div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
+<div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
+
+</div>
 
 ---
 

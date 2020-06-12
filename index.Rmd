@@ -155,9 +155,27 @@ Either one large landscape image OR large text
 
 `r create_img('https://images.unsplash.com/photo-1445499348736-29b6cdfc03b9?w=900')`
 
+--- .info .layout
+
+# Layout C
+
+<br>
+
+**Specifications**
+
+Large landscape image on left
+
+1-2 pieces of text on right
+
+<br>
+
+**Permutations**
+
+![](assets/images/layoutC.svg)
+
 ---
 
-# Layout X permutation example
+# Layout C permutation example
 
 ### (Dissertation title)<br>Chair/Advisor
 
@@ -166,6 +184,23 @@ Either one large landscape image OR large text
 `r create_img('https://images.unsplash.com/photo-1445499348736-29b6cdfc03b9?w=900')`
 
 `r create_quote()`
+
+---
+
+# Layout C permutation example
+
+### (Dissertation title)<br>Chair/Advisor
+
+*** =info
+
+`r create_img('https://images.unsplash.com/photo-1445499348736-29b6cdfc03b9?w=900')`
+
+<div class="flex-container">
+
+`r create_quote()`
+`r create_quote()`
+
+</div>
 
 ---
 

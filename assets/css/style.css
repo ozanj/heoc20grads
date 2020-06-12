@@ -99,6 +99,11 @@ body {
   float: right;
 }
 
+.reveal .flex-container {
+  display: flex;
+  flex-direction: column;
+}
+
 /* Title */
 
 .title h1 {
