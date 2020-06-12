@@ -26,6 +26,8 @@ Spring 2020
 
 </div>
 
+<a href="https://ozanj.github.io/heoc20grads/">ozanj.github.io/heoc20grads</a>
+
 <audio loop data-autoplay id="slides-music">
   <source src="./assets/audio/pomp-and-circumstance.mp3" type="audio/mpeg">
 </audio>

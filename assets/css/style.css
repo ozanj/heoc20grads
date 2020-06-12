@@ -130,8 +130,12 @@ body {
 }
 
 .title p {
-  margin: 30px 0;
+  margin: 20px 0;
   font-size: 20px;
+}
+
+.title a {
+  font-size: 16px;
 }
 
 /* Slideshow */
