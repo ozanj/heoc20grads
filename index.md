@@ -6,7 +6,7 @@ revealjs:
   theme: theme1
   transition: linear
   center: 'false'
----
+--- .title
 
 
 
@@ -14,7 +14,7 @@ revealjs:
 
 June 20, 2020
 
-<div class="slides-wrapper">
+<div id="slides-start" class="slides-wrapper">
 
 <div class="slide">
     <img src="./assets/slideshow/pic1.jpeg">
@@ -272,8 +272,22 @@ June 20, 2020
   </div>
   </div></section>
 
----
+--- .title
 
-## Congratulations!
+# Congratulations Graduates!
 
-<iframe width="560" height="315" style="margin-top:20px" src="https://www.youtube.com/embed/Kw-_Ew5bVxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="slides-end" class="slides-wrapper">
+
+<div class="slide">
+    <img src="./assets/slideshow/pic1.jpeg">
+  </div><div class="slide">
+    <img src="./assets/slideshow/pic2.jpeg">
+  </div><div class="slide">
+    <img src="./assets/slideshow/pic3.jpeg">
+  </div>
+
+</div>
+
+<audio loop data-autoplay>
+  <source src="./assets/audio/pomp-and-circumstance.mp3" type="audio/mpeg">
+</audio>

@@ -6,7 +6,7 @@ revealjs:
   theme: theme1
   transition: linear
   center: 'false'
----
+--- .title
 
 ```{r, include=FALSE}
 library(slidify)
@@ -32,7 +32,7 @@ create_quote <- function(txt='Lorem ipsum dolor sit amet, consectetur adipiscing
 
 June 20, 2020
 
-<div class="slides-wrapper">
+<div id="slides-start" class="slides-wrapper">
 
 ```{r, echo=FALSE, results='asis'}
 img_dir <- file.path('.', 'assets', 'slideshow')
@@ -152,8 +152,25 @@ for (i in 1:nrow(students)) {
 }
 ```
 
----
+--- .title
 
-## Congratulations!
+# Congratulations Graduates!
 
-<iframe width="560" height="315" style="margin-top:20px" src="https://www.youtube.com/embed/Kw-_Ew5bVxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="slides-end" class="slides-wrapper">
+
+```{r, echo=FALSE, results='asis'}
+img_dir <- file.path('.', 'assets', 'slideshow')
+images <- list.files(img_dir)
+
+for (i in images) {
+  cat('<div class="slide">
+    <img src="', file.path(img_dir, i), '">
+  </div>', sep = '')
+}
+```
+
+</div>
+
+<audio loop data-autoplay>
+  <source src="./assets/audio/pomp-and-circumstance.mp3" type="audio/mpeg">
+</audio>

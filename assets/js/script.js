@@ -1,10 +1,13 @@
 $(function() {
-
-  showSlides();
   
+  var slideshows = document.querySelectorAll('.slides-wrapper');
+  
+  // Apply to all slideshows that you defined
+  slideshows.forEach(initSlideShow);
+
   // Source: https://www.freecodecamp.org/news/how-to-create-a-slideshow/
-  function showSlides() {
-    var slides = document.querySelectorAll('.slides-wrapper .slide'); // Get an array of slides
+  function initSlideShow(slideshow) {
+    var slides = document.querySelectorAll(`#${slideshow.id} .slide`); // Get an array of slides
 
     var index = 0, time = 2000;
     slides[index].classList.add('active');  

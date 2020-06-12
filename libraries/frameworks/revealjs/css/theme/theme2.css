@@ -29,7 +29,7 @@ body {
 
 /* Title */
 
-#slide-1 h1, #slide-1 p {
+.title h1, .title p {
   color: white;
 }
 
