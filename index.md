@@ -62,7 +62,7 @@ Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC7
 
 # Layout A1
 
-### Dissertation<br>Chair
+### (Dissertation title)<br>Chair/Advisor
 
 *** =left
 
@@ -77,7 +77,7 @@ Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC7
 
 # Layout A2
 
-### Dissertation<br>Chair
+### (Dissertation title)<br>Chair/Advisor
 
 *** =left
 
@@ -91,7 +91,7 @@ Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC7
 
 # Layout B
 
-### Dissertation<br>Chair
+### (Dissertation title)<br>Chair/Advisor
 
 *** =info
 
@@ -101,7 +101,7 @@ Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC7
 
 # Layout X
 
-### Dissertation<br>Chair
+### (Dissertation title)<br>Chair/Advisor
 
 *** =info
 
@@ -258,7 +258,7 @@ Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC7
 <section>
   <button class="theme-button">theme1</button>
   <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Shuai Li, Ph.D.</h1><h3>Dissertation<br>Chair</h3><div class="container">
+  <button class="bg-button" data-bg="on">toggle bg</button><h1>Shuai Li, Ph.D.</h1><h3>Dissertation title<br>Chair</h3><div class="container">
   <div class="left">
     <div class="img-wrapper">
       <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
@@ -270,7 +270,7 @@ Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC7
   </div></section><section>
   <button class="theme-button">theme1</button>
   <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Benjamin Logan, Ph.D.</h1><h3>Dissertation<br>Chair</h3><div class="container">
+  <button class="bg-button" data-bg="on">toggle bg</button><h1>Benjamin Logan, Ph.D.</h1><h3>Dissertation title<br>Chair</h3><div class="container">
   <div class="left">
     <div class="img-wrapper">
       <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
@@ -282,7 +282,7 @@ Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC7
   </div></section><section>
   <button class="theme-button">theme1</button>
   <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Christina Zavala, Ph.D.</h1><h3>Dissertation<br>Chair</h3><div class="container">
+  <button class="bg-button" data-bg="on">toggle bg</button><h1>Christina Zavala, Ph.D.</h1><h3>Dissertation title<br>Chair</h3><div class="container">
   <div class="left">
     <div class="img-wrapper">
       <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
@@ -294,7 +294,7 @@ Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC7
   </div></section><section>
   <button class="theme-button">theme1</button>
   <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Connie Chang, Ph.D.</h1><h3>Dissertation<br>Chair</h3><div class="container">
+  <button class="bg-button" data-bg="on">toggle bg</button><h1>Connie Chang, Ph.D.</h1><h3>Dissertation title<br>Chair</h3><div class="container">
   <div class="left">
     <div class="img-wrapper">
       <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
@@ -306,7 +306,7 @@ Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC7
   </div></section><section>
   <button class="theme-button">theme1</button>
   <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Kari George, Ph.D.</h1><h3>Dissertation<br>Chair</h3><div class="container">
+  <button class="bg-button" data-bg="on">toggle bg</button><h1>Kari George, Ph.D.</h1><h3>Dissertation title<br>Chair</h3><div class="container">
   <div class="left">
     <div class="img-wrapper">
       <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
@@ -318,7 +318,7 @@ Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC7
   </div></section><section>
   <button class="theme-button">theme1</button>
   <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Die Hu, Ph.D.</h1><h3>Dissertation<br>Chair</h3><div class="container">
+  <button class="bg-button" data-bg="on">toggle bg</button><h1>Die Hu, Ph.D.</h1><h3>Dissertation title<br>Chair</h3><div class="container">
   <div class="left">
     <div class="img-wrapper">
       <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
@@ -330,7 +330,7 @@ Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC7
   </div></section><section>
   <button class="theme-button">theme1</button>
   <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Natacha Cesar-Davis, Ph.D.</h1><h3>Dissertation<br>Chair</h3><div class="container">
+  <button class="bg-button" data-bg="on">toggle bg</button><h1>Natacha Cesar-Davis, Ph.D.</h1><h3>Dissertation title<br>Chair</h3><div class="container">
   <div class="left">
     <div class="img-wrapper">
       <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
@@ -342,7 +342,7 @@ Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC7
   </div></section><section>
   <button class="theme-button">theme1</button>
   <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Katherine Cho, Ph.D.</h1><h3>Dissertation<br>Chair</h3><div class="container">
+  <button class="bg-button" data-bg="on">toggle bg</button><h1>Katherine Cho, Ph.D.</h1><h3>Dissertation title<br>Chair</h3><div class="container">
   <div class="left">
     <div class="img-wrapper">
       <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
