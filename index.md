@@ -286,6 +286,29 @@ Either one large landscape image OR large text
   </div>
   </div></section>
 
+--- .info
+
+# Other graduating students
+
+<br><br>
+
+**Name, M.A.**
+
+Advisor
+
+<br>
+
+**Name, M.A.**
+
+Advisor
+
+<br>
+
+**Name, M.A.**
+
+Advisor
+
+
 ---
 
 ## Doctor of Philosophy in Education
@@ -389,6 +412,34 @@ Either one large landscape image OR large text
     <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
   </div>
   </div></section>
+
+--- .info
+
+# Other graduating students
+
+<br><br>
+
+**Name, Ph.D.**
+
+Dissertation Title
+
+Chair
+
+<br>
+
+**Name, Ph.D.**
+
+Dissertation Title
+
+Chair
+
+<br>
+
+**Name, Ph.D.**
+
+Dissertation Title
+
+Chair
 
 --- .title
 

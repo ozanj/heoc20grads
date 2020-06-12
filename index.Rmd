@@ -193,6 +193,29 @@ for (i in 1:nrow(students)) {
 }
 ```
 
+--- .info
+
+# Other graduating students
+
+<br><br>
+
+**Name, M.A.**
+
+Advisor
+
+<br>
+
+**Name, M.A.**
+
+Advisor
+
+<br>
+
+**Name, M.A.**
+
+Advisor
+
+
 ---
 
 ## Doctor of Philosophy in Education
@@ -218,6 +241,34 @@ for (i in 1:nrow(students)) {
   </div></section>', sep = '')
 }
 ```
+
+--- .info
+
+# Other graduating students
+
+<br><br>
+
+**Name, Ph.D.**
+
+Dissertation Title
+
+Chair
+
+<br>
+
+**Name, Ph.D.**
+
+Dissertation Title
+
+Chair
+
+<br>
+
+**Name, Ph.D.**
+
+Dissertation Title
+
+Chair
 
 --- .title
 

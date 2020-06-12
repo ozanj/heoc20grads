@@ -49,6 +49,10 @@ body {
   display: none;
 }
 
+.reveal .info .container {
+    display: none;
+}
+
 .reveal .info p {
   font-size: 18px;
   line-height: 150%;
