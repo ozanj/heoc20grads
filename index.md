@@ -181,6 +181,62 @@ Large landscape image on left
 
 </div>
 
+--- .info .layout #layoutD
+
+# Layout D
+
+<br>
+
+**Specifications**
+
+Large landscape image on top (or bottom)
+
+1-2 pieces of text on bottom (or top)
+
+<br>
+
+**Permutations**
+
+<div style="display:flex">
+
+<img width="300px" src="assets/images/layoutD1.svg" />
+<img width="300px" src="assets/images/layoutD2.svg" />
+
+</div>
+
+--- .flex-invert
+
+# Layout D permutation example
+
+### (Dissertation title)<br>Chair/Advisor
+
+*** =info
+
+<div class="img-wrapper"><img src="https://images.unsplash.com/photo-1444021907648-1baf30e38d9e?w=900"></div>
+
+<div class="flex-container">
+
+<div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
+<div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
+
+</div>
+
+--- .flex-invert
+
+# Layout D permutation example
+
+### (Dissertation title)<br>Chair/Advisor
+
+*** =info
+
+<div class="flex-container">
+
+<div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
+
+</div>
+
+<div class="img-wrapper"><img src="https://images.unsplash.com/photo-1444021907648-1baf30e38d9e?w=900"></div>
+
 ---
 
 ## Master of Arts in Education

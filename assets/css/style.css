@@ -73,6 +73,10 @@ body {
   border: 1px solid gray;
 }
 
+.reveal #layoutD img {
+  width: 450px;
+}
+
 /* Layout */
 
 .reveal .color-box {
@@ -102,6 +106,14 @@ body {
 .reveal .flex-container {
   display: flex;
   flex-direction: column;
+}
+
+.reveal .flex-invert .container {
+  flex-direction: column;
+}
+
+.reveal .flex-invert .flex-container {
+  flex-direction: row;
 }
 
 /* Title */
@@ -167,6 +179,10 @@ body {
   width: fit-content;
   height: 100%;
   margin: 0 auto;
+}
+
+.reveal .flex-invert .img-wrapper {
+  height: 50%;
 }
 
 .reveal .img-wrapper img {

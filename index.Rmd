@@ -202,6 +202,62 @@ Large landscape image on left
 
 </div>
 
+--- .info .layout #layoutD
+
+# Layout D
+
+<br>
+
+**Specifications**
+
+Large landscape image on top (or bottom)
+
+1-2 pieces of text on bottom (or top)
+
+<br>
+
+**Permutations**
+
+<div style="display:flex">
+
+<img width="300px" src="assets/images/layoutD1.svg" />
+<img width="300px" src="assets/images/layoutD2.svg" />
+
+</div>
+
+--- .flex-invert
+
+# Layout D permutation example
+
+### (Dissertation title)<br>Chair/Advisor
+
+*** =info
+
+`r create_img('https://images.unsplash.com/photo-1444021907648-1baf30e38d9e?w=900')`
+
+<div class="flex-container">
+
+`r create_quote()`
+`r create_quote()`
+
+</div>
+
+--- .flex-invert
+
+# Layout D permutation example
+
+### (Dissertation title)<br>Chair/Advisor
+
+*** =info
+
+<div class="flex-container">
+
+`r create_quote()`
+
+</div>
+
+`r create_img('https://images.unsplash.com/photo-1444021907648-1baf30e38d9e?w=900')`
+
 ---
 
 ## Master of Arts in Education
