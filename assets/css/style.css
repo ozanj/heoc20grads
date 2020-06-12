@@ -64,7 +64,7 @@ body {
 
 .reveal .info img {
   width: 250px;
-  margin: 20px auto;
+  margin-top: 20px;
 }
 
 .reveal .layout img {
@@ -75,6 +75,12 @@ body {
 
 .reveal #layoutD img {
   width: 450px;
+}
+
+.reveal .footnote {
+  margin-bottom: 20px;
+  font-style: italic;
+  color: gray;
 }
 
 /* Layout */

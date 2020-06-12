@@ -40,7 +40,10 @@ Spring 2020
 
 **Colors**: [UCLA Colors](http://brand.ucla.edu/identity/colors)
 
-<br>
+<div>
+  <img src="http://brand.ucla.edu/images/identity/colors/id-colors-usage.jpg" />
+  <p class="footnote">UCLA Color Palette</p>
+</div>
 
 **Theme 1**
 
@@ -55,8 +58,6 @@ Content: <span class="color-box" style="background-color:#FFB81C"></span> \#FFB8
 Background:  <span class="color-box" style="background-color:#2774AE"></span> \#2774AE to <span class="color-box" style="background-color:#8BB8E8"></span> \#8BB8E8
 
 Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC72C, <span class="color-box" style="background-color:#FFFFFF"></span> \#FFFFFF, <span class="color-box" style="background-color:#000000"></span> \#000000
-
-![](http://brand.ucla.edu/images/identity/colors/id-colors-usage.jpg)
 
 --- .info .layout
 
