@@ -28,9 +28,9 @@ create_quote <- function(txt='Lorem ipsum dolor sit amet, consectetur adipiscing
 }
 ```
 
-# HEOC M.A./Ph.D.<br>Commencement Celebration
+# UCLA HEOC<br>MA and PhD Commencement
 
-June 20, 2020
+Spring 2020
 
 <div id="slides-start" class="slides-wrapper">
 
@@ -47,13 +47,37 @@ for (i in images) {
 
 </div>
 
-<button class="theme-button">theme1</button>
-<button class="theme-button">theme2</button>
-<button class="bg-button" data-bg="on">toggle bg</button>
-
 <audio loop data-autoplay id="slides-music">
   <source src="./assets/audio/pomp-and-circumstance.mp3" type="audio/mpeg">
 </audio>
+
+--- .info
+
+# Themes
+
+<br>
+
+**Font**: Helvetica
+
+**Colors**: [UCLA Colors](http://brand.ucla.edu/identity/colors)
+
+<br>
+
+**Theme 1**
+
+Background: <span class="color-box" style="background-color:#FAFAFA"></span> \#FAFAFA to <span class="color-box" style="background-color:#8BB8E8"></span> \#8BB8E8
+
+Content: <span class="color-box" style="background-color:#FFB81C"></span> \#FFB81C, <span class="color-box" style="background-color:#FFC72C"></span> \#FFC72C, <span class="color-box" style="background-color:#003B5C"></span> \#003B5C
+
+<br>
+
+**Theme 2**
+
+Background:  <span class="color-box" style="background-color:#2774AE"></span> \#2774AE to <span class="color-box" style="background-color:#8BB8E8"></span> \#8BB8E8
+
+Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC72C, <span class="color-box" style="background-color:#FFFFFF"></span> \#FFFFFF, <span class="color-box" style="background-color:#000000"></span> \#000000
+
+![](http://brand.ucla.edu/images/identity/colors/id-colors-usage.jpg)
 
 --- &twocol
 
@@ -116,7 +140,10 @@ for (i in images) {
 students <- read.csv('./assets/data/master.csv', na.strings=c('', 'NA'), stringsAsFactors = F)
 
 for (i in 1:nrow(students)) {
-  cat('<section><h1>', students[i, 'name'], ', M.A.</h1><h3>Advisor</h3><div class="container">
+  cat('<section>
+  <button class="theme-button">theme1</button>
+  <button class="theme-button">theme2</button>
+  <button class="bg-button" data-bg="on">toggle bg</button><h1>', students[i, 'name'], ', M.A.</h1><h3>Advisor</h3><div class="container">
   <div class="left">
     <div class="img-wrapper">
       <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
@@ -139,7 +166,10 @@ for (i in 1:nrow(students)) {
 students <- read.csv('./assets/data/phd.csv', na.strings=c('', 'NA'), stringsAsFactors = F)
 
 for (i in 1:nrow(students)) {
-  cat('<section><h1>', students[i, 'name'], ', Ph.D.</h1><h3>Dissertation<br>Chair</h3><div class="container">
+  cat('<section>
+  <button class="theme-button">theme1</button>
+  <button class="theme-button">theme2</button>
+  <button class="bg-button" data-bg="on">toggle bg</button><h1>', students[i, 'name'], ', Ph.D.</h1><h3>Dissertation<br>Chair</h3><div class="container">
   <div class="left">
     <div class="img-wrapper">
       <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
