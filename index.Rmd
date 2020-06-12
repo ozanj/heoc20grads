@@ -289,7 +289,7 @@ for (i in 1:nrow(students)) {
 
 --- .info
 
-# Other graduating students
+# Master of Arts in Education
 
 <br><br>
 
@@ -338,7 +338,7 @@ for (i in 1:nrow(students)) {
 
 --- .info
 
-# Other graduating students
+# Doctor of Philosophy in Education
 
 <br><br>
 

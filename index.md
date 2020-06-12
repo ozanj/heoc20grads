@@ -382,7 +382,7 @@ Large landscape image on top (or bottom)
 
 --- .info
 
-# Other graduating students
+# Master of Arts in Education
 
 <br><br>
 
@@ -509,7 +509,7 @@ Advisor
 
 --- .info
 
-# Other graduating students
+# Doctor of Philosophy in Education
 
 <br><br>
 
