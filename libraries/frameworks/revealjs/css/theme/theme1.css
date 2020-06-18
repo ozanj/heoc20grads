@@ -5,7 +5,8 @@ body {
 }
 
 .reveal h1 {
-  color: #FFB81C;
+  color: black;
+  text-shadow: -1px -1px 1px white;
 }
 
 .reveal h2 {

@@ -32,35 +32,6 @@ Spring 2020
   <source src="./assets/audio/pomp-and-circumstance.mp3" type="audio/mpeg">
 </audio>
 
---- .info
-
-# Themes
-
-<br>
-
-**Font**: Helvetica
-
-**Colors**: [UCLA Colors](http://brand.ucla.edu/identity/colors)
-
-<div>
-  <img src="http://brand.ucla.edu/images/identity/colors/id-colors-usage.jpg" />
-  <p class="footnote">UCLA Color Palette</p>
-</div>
-
-**Theme 1**
-
-Background: <span class="color-box" style="background-color:#FAFAFA"></span> \#FAFAFA to <span class="color-box" style="background-color:#8BB8E8"></span> \#8BB8E8
-
-Content: <span class="color-box" style="background-color:#FFB81C"></span> \#FFB81C, <span class="color-box" style="background-color:#FFC72C"></span> \#FFC72C, <span class="color-box" style="background-color:#003B5C"></span> \#003B5C
-
-<br>
-
-**Theme 2**
-
-Background:  <span class="color-box" style="background-color:#2774AE"></span> \#2774AE to <span class="color-box" style="background-color:#8BB8E8"></span> \#8BB8E8
-
-Content: <span class="color-box" style="background-color:#FFC72C"></span> \#FFC72C, <span class="color-box" style="background-color:#FFFFFF"></span> \#FFFFFF, <span class="color-box" style="background-color:#000000"></span> \#000000
-
 --- .info .layout
 
 # Layout A
@@ -244,141 +215,52 @@ Large landscape image on top (or bottom)
 
 ## Master of Arts in Education
 
-</section>
+--- &twocol
 
-<section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Elisa Chang Huh, M.A.</h1><h3>Advisor</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section><section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Cymone Bre'Ahn Mack, M.A.</h1><h3>Advisor</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section><section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Noel Bynum, M.A.</h1><h3>Advisor</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section><section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Daniela Conde, M.A.</h1><h3>Advisor</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section><section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Kiana Foxx, M.A.</h1><h3>Advisor</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section><section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Fernando Garcia, M.A.</h1><h3>Advisor</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section><section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Demeturie Gogue, M.A.</h1><h3>Advisor</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section><section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Elizabeth Martin, M.A.</h1><h3>Advisor</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section><section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Bernard Reyes, M.A.</h1><h3>Advisor</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section><section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Kaitlyn Stormes, M.A.</h1><h3>Advisor</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section><section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Azeb Tadesse, M.A.</h1><h3>Advisor</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section>
+# Kiana Foxx, M.A.
+
+### Advisor
+
+*** =left
+
+<div class="img-wrapper"><img src="./assets/photos/kianaf.jpg"></div>
+
+*** =right
+
+<div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Thank you to my family, friends, and the HEOC community. You made this possible and your support is appreciated! Next stop Ph.D.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
+
+--- &twocol
+
+# Fernando Garcia, M.A.
+
+### Advisor
+
+*** =left
+
+<div class="img-wrapper"><img src="./assets/photos/fernandog.jpg"></div>
+
+*** =right
+
+<div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Gracias a mi familia, mis amig@s, y la comunidad que me ayodo a lograr esto. Todavio no terminamos, pero ya estamos llegando mas cerca! Y como me dice mi profe, 'ni pa un lado, ni pal otro, siempre pa delante'. Gracias. Los amo.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
+
+--- &twocol
+
+# Kaitlyn Stormes, M.A.
+
+### Advisor
+
+*** =left
+
+<div class="img-wrapper"><img src="./assets/photos/kaitlyns.jpeg"></div>
+
+*** =right
+
+<div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>"There is no problem in science that can be solved by a man that cannot be solved by a woman." <br> -Vera Rubin<i class="fa fa-quote-right" aria-hidden="true"></i></div>
+
+<div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>This quote is why I returned to school in pursuit of becoming Dr. Stormes, and it represents my interest in increasing representation of women in STEM. Thank you to my partner, family, and mentors for your support along the way.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
+
+
+
 
 --- .info
 
@@ -407,105 +289,6 @@ Advisor
 
 ## Doctor of Philosophy in Education
 
-</section>
-
-<section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Shuai Li, Ph.D.</h1><h3>Dissertation title<br>Chair</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section><section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Benjamin Logan, Ph.D.</h1><h3>Dissertation title<br>Chair</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section><section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Christina Zavala, Ph.D.</h1><h3>Dissertation title<br>Chair</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section><section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Connie Chang, Ph.D.</h1><h3>Dissertation title<br>Chair</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section><section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Kari George, Ph.D.</h1><h3>Dissertation title<br>Chair</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section><section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Die Hu, Ph.D.</h1><h3>Dissertation title<br>Chair</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section><section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Natacha Cesar-Davis, Ph.D.</h1><h3>Dissertation title<br>Chair</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section><section>
-  <button class="theme-button">theme1</button>
-  <button class="theme-button">theme2</button>
-  <button class="bg-button" data-bg="on">toggle bg</button><h1>Katherine Cho, Ph.D.</h1><h3>Dissertation title<br>Chair</h3><div class="container">
-  <div class="left">
-    <div class="img-wrapper">
-      <img src="https://images.unsplash.com/photo-1511717004695-7862a87f4b3d?w=250">
-    </div>
-  </div>
-  <div class="right">
-    <div class="quote"><i class="fa fa-quote-left" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<i class="fa fa-quote-right" aria-hidden="true"></i></div>
-  </div>
-  </div></section>
 
 --- .info
 
