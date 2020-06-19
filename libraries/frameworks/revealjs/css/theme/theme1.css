@@ -5,8 +5,7 @@ body {
 }
 
 .reveal h1 {
-  color: black;
-  text-shadow: -1px -1px 1px white;
+  color: #003B5C;
 }
 
 .reveal h2 {
@@ -34,45 +33,40 @@ body {
 
 /* Components */
 
-.reveal .quote {
-  background-color: #FFB81C;
-  outline: 4px dotted black;
-  outline-offset: 3px;
-  border: 6px double black;
-  color: black;
-}
-
-.reveal .textbox {
-  color: #FFD100;
-  background-color: black;
-  border: 3px dashed #FFD100;
-  outline: 9px solid black;
-}
-
-.reveal .blue .quote, .reveal .blue .textbox {
+.reveal .quote, .reveal .textbox {
   background-color: #003B5C;
-  border: 4px dotted #FFD100;
-  outline: 10px solid #003B5C;
+  color: #FFD100;
+}
+
+.reveal .gold .quote, .reveal .gold .textbox {
+  background-color: #FFB81C;
+  color: black;
 }
 
 .reveal .img-wrapper {
+  background-color: #003B5C;
+}
+
+.reveal .gold .img-wrapper {
   background-color: black;
 }
 
-.reveal .blue .img-wrapper {
-  background-color: #003B5C;
-  outline: 2px solid #FFD100;
+.reveal .custom .container .img-wrapper:first-child,
+.reveal .custom .container .img-wrapper:last-child {
+  background-color: #FFC72C;
 }
 
-.reveal .blue h1 {
-  color: #003B5C;
+.reveal .gold h1 {
+  color: black;
+  text-shadow: -1px -1px 1px white;
 }
 
 .reveal h3 {
-  color: black;
+  color: #003B5C;
+  border: 2px solid #003B5C;
 }
 
-.reveal .blue h3 {
-  color: #003B5C;
-  border-color: #003B5C;
+.reveal .gold h3 {
+  color: black;
+  border: 2px solid black;
 }
