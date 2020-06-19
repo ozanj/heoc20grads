@@ -112,12 +112,12 @@ body {
   float: right;
 }
 
-.reveal .l60-r30 .left {
+.reveal .l60-r38 .left {
   width: 60%;
 }
 
-.reveal .l60-r30 .right {
-  width: 30%;
+.reveal .l60-r38 .right {
+  width: 38%;
 }
 
 .reveal .flex-container {
@@ -201,7 +201,7 @@ body {
   width: fit-content;
   height: 100%;
   margin: 0 auto;
-  transform: translateY(-10px);
+  transform:translate(-5px, -10px);
 }
 
 .reveal .custom .img-wrapper {

@@ -250,6 +250,19 @@ Large landscape image on top (or bottom)
 <div class="quote" style=""><p>You have to decide who you are and force the world to deal with you, not with its idea of you.</p><p>- James Baldwin</p></div>
 <div class="textbox" style="">Thank you to my family, Tom, my friends and my cohort for all the support to get me this far! It's been one heck of a year but thankful for all the growth, new friends, and future we have to look forward to together. Next stop: Ph.D.!</div>
 
+--- &twocol .compact
+
+# Daniela Conde, M.A.
+
+### Advisor: Jessica Harris
+
+*** =left
+
+<div class="img-wrapper" style=""><img src="./assets/photos/danielac.jpg"></div>
+
+*** =right
+
+<div class="textbox" style="width:260px;">Esto es pa' mi familia. Esto es pa' mi gente! This is for BIPOC migrant communities.<br><br>Lo hicimos, Má! Lo hicimos, hermanas! In our togetherness, we thrive. Siempre con La Morenita a nuestro lado. Gracias for teaching me in all ways, Má, especially how to freedom-dream y como luchar! S/o to the LA (& heoc) homies too. Y aquí seguiremos pa' delante towards the Ph.D.</div>
 
 --- &twocol .compact
 
@@ -263,7 +276,7 @@ Large landscape image on top (or bottom)
 
 *** =right
 
-<div class="textbox" style="">Thank you to my family, friends, and the HEOC community. You made this possible and your support is appreciated! Next stop Ph.D.</div>
+<div class="textbox" style="transform:translateX(-20px);">Thank you to my family, friends, and the HEOC community. You made this possible and your support is appreciated! Next stop Ph.D.</div>
 
 
 --- &twocol
@@ -280,7 +293,7 @@ Large landscape image on top (or bottom)
 
 <div class="textbox" style="">Gracias a mi familia, mis amig@s, y la comunidad que me ayodo a lograr esto. Todavio no terminamos, pero ya estamos llegando mas cerca! Y como me dice mi profe, 'ni pa un lado, ni pal otro, siempre pa delante'. Gracias. Los amo.</div>
 
---- &twocol .l60-r30
+--- &twocol .l60-r38
 
 # Demeturie Toso-Lafaele Gogue, M.A.
 
@@ -288,11 +301,11 @@ Large landscape image on top (or bottom)
 
 *** =left
 
-<div class="img-wrapper" style="transform:translate(-30px, -10px);"><img src="./assets/photos/demeturieg.jpg"></div>
+<div class="img-wrapper" style=""><img src="./assets/photos/demeturieg.jpg"></div>
 
 *** =right
 
-<div class="textbox" style="width:250px;">This degree is not only a representation of my accomplishments but also the love and support that family, friends, and mentors have poured into me. I am tall because I stand on the shoulders of giants.<br><br>To my late grandparents, Sentenari Tolo and Tupou Tolo: Fa'afetai tele mo le lua tapūa'iga. E ui lava ua fai i lagi le fōlaūga, ae le mafai ona galo ā'ōa'ōga ma fautuāga. O lea foi ua fa'amanuiaina au i leisi au fa'ailōga Master of Arts.</div>
+<div class="textbox" style="width:250px;transform:translateX(30px);">This degree is not only a representation of my accomplishments but also the love and support that family, friends, and mentors have poured into me. I am tall because I stand on the shoulders of giants.<br><br>To my late grandparents, Sentenari Tolo and Tupou Tolo: Fa'afetai tele mo le lua tapūa'iga. E ui lava ua fai i lagi le fōlaūga, ae le mafai ona galo ā'ōa'ōga ma fautuāga. O lea foi ua fa'amanuiaina au i leisi au fa'ailōga Master of Arts.</div>
 
 
 --- .tall .flex-invert
@@ -303,7 +316,7 @@ Large landscape image on top (or bottom)
 
 *** =info
 
-<div class="img-wrapper" style="transform:translate(-5px, -10px);height:65%;"><img src="./assets/photos/cymonem.JPG"></div>
+<div class="img-wrapper" style="height:65%;"><img src="./assets/photos/cymonem.JPG"></div>
 
 <div class="quote" style="width:380px"><p>What if I fall? Oh but my darling, what if you fly?</p><p>- Eric Hanson</p></div>
 
@@ -319,7 +332,7 @@ Large landscape image on top (or bottom)
 
 *** =right
 
-<div class="quote" style="width:250px;margin-right:80px"><p>Be the brightest of the bunch</p><p>- Lilly Pulitzer</p></div>
+<div class="quote" style="width:250px;transform: translateX(-60px);"><p>Be the brightest of the bunch</p><p>- Lilly Pulitzer</p></div>
 
 
 --- &twocol .gold
@@ -330,13 +343,13 @@ Large landscape image on top (or bottom)
 
 *** =left
 
-<div class="img-wrapper" style=""><img src="./assets/photos/kaitlyns.jpeg"></div>
+<div class="img-wrapper" style="transform: translate(20px, -10px);"><img src="./assets/photos/kaitlyns.jpeg"></div>
 
 *** =right
 
-<div class="quote" style=""><p>There is no problem in science that can be solved by a man that cannot be solved by a woman.</p><p>- Vera Rubin</p></div>
+<div class="quote" style="transform: translateX(20px);"><p>There is no problem in science that can be solved by a man that cannot be solved by a woman.</p><p>- Vera Rubin</p></div>
 
-<div class="textbox" style="">This quote is why I returned to school in pursuit of becoming Dr. Stormes, and it represents my interest in increasing representation of women in STEM. Thank you to my partner, family, and mentors for your support along the way.</div>
+<div class="textbox" style="transform: translateX(20px);">This quote is why I returned to school in pursuit of becoming Dr. Stormes, and it represents my interest in increasing representation of women in STEM. Thank you to my partner, family, and mentors for your support along the way.</div>
 
 --- .info
 
@@ -372,7 +385,7 @@ Advisor
 
 *** =left
 
-<div class="img-wrapper" style=""><img src="./assets/photos/natachacd.JPG"></div>
+<div class="img-wrapper" style="transform:translate(10px, -10px);"><img src="./assets/photos/natachacd.JPG"></div>
 
 *** =right
 
@@ -390,9 +403,23 @@ Advisor
 
 *** =right
 
-<div class="img-wrapper" style="height:45%"><img src="./assets/photos/conniec-right.jpg"></div>
+<div class="img-wrapper" style="height:55%"><img src="./assets/photos/conniec-right.jpg"></div>
 
-<div class="quote" style="width:400px"><p>If you have come here to help me, you are wasting your time. But if you have come because your liberation is bound up with mine, then let us work together.</p><p>- Lilla Watson</p><br><p>This dissertation is dedicated to those committed to the liberation of all, in the past, present, and future.</p></div>
+<div class="textbox" style="width:340px;">Thank you to the HEOC faculty and friends, especially Mitch, for believing in and supporting me. It's been an honor to learn from each and everyone of you. I will carry with me the important lessons of critical research, empathy, and advocacy for social change.</div>
+
+--- &twocol .l60-r38
+
+# Katherine Cho, Ph.D.
+
+### How Did We Get Here? Actually We've Always Been: Examining Institutional Responses to Campus Racism and Student Activism<br>Chairs: Sylvia Hurtado
+
+*** =left
+
+<div class="img-wrapper" style=""><img src="./assets/photos/katherinec.jpeg"></div>
+
+*** =right
+
+<div class="textbox" style="width:260px">This dissertation reflects the power and support of community: the generations of people who fought for racial justice; the people who are fighting for it now; the relationships, friendships, laughter, and spaces that sustain us as the fight continues. To my community: friends, my amazing cohort, femtors, mentors, a most wonderful chair and committee, and of course, my parents: thank you always.</div>
 
 --- &twocol .tall
 
@@ -425,7 +452,7 @@ Advisor
 <div class="img-wrapper" style=""><img src="./assets/photos/dieh-bottomleft.JPG"></div>
 <div class="img-wrapper" style=""><img src="./assets/photos/dieh-bottomright.jpeg"></div>
 
---- &twocol .l60-r30
+--- &twocol .l60-r38
 
 # Shuai Li, Ph.D.
 
@@ -445,11 +472,11 @@ Advisor
 
 <br><br>
 
-**Name, Ph.D.**
+**Benjamin John Logan, Ph.D.**
 
-Dissertation Title
+Beyond Acculturation: Towards a Non-Deficit View of International Students' Culture and Support Networks
 
-Chair
+Chairs: Robert Rhoads & Patricia McDonough
 
 <br>
 
