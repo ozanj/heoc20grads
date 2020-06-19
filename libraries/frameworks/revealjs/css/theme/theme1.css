@@ -51,6 +51,10 @@ body {
   background-color: black;
 }
 
+.reveal .speaker .img-wrapper {
+  background-color: #FFB81C;
+}
+
 .reveal .custom .container .img-wrapper:first-child,
 .reveal .custom .container .img-wrapper:last-child {
   background-color: #FFC72C;

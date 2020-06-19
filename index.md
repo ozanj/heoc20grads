@@ -19,6 +19,16 @@ Spring 2020
 <div class="slide">
     <img src="./assets/slideshow/A248FF3B-D477-4438-BEA4-55AA3324AEC2.JPG">
   </div><div class="slide">
+    <img src="./assets/slideshow/Elaine Jessica Tamargo - DSC06960.JPG">
+  </div><div class="slide">
+    <img src="./assets/slideshow/Elaine Jessica Tamargo - DSC07005.JPG">
+  </div><div class="slide">
+    <img src="./assets/slideshow/Elaine Jessica Tamargo - JZEE4371.jpeg">
+  </div><div class="slide">
+    <img src="./assets/slideshow/Elaine Jessica Tamargo - NWGBE6619.JPG">
+  </div><div class="slide">
+    <img src="./assets/slideshow/Elaine Jessica Tamargo - WGRTE6892.JPG">
+  </div><div class="slide">
     <img src="./assets/slideshow/IMG-0796.JPG">
   </div><div class="slide">
     <img src="./assets/slideshow/IMG-0800.JPG">
@@ -315,17 +325,25 @@ Large landscape image on top (or bottom)
 
 ## Speakers
 
----
+--- .speaker .tall
 
 # Professor Patricia McDonough, HEOC Division Head
 
----
+--- .speaker .tall
 
 # Dr. Natacha M. Cesar-Davis
 
----
+*** =info
 
-# Dr. Connie Chang
+<div class="img-wrapper" style=""><img src="./assets/photos/natachacd-speaker.jpeg"></div>
+
+--- .speaker .tall
+
+# Dr. Connie Y. Chang
+
+*** =info
+
+<div class="img-wrapper" style=""><img src="./assets/photos/conniec-speaker.jpg"></div>
 
 ---
 
@@ -404,7 +422,7 @@ Large landscape image on top (or bottom)
 <div class="textbox" style="width:250px;transform:translateX(30px);">This degree is not only a representation of my accomplishments but also the love and support that family, friends, and mentors have poured into me. I am tall because I stand on the shoulders of giants.<br><br>To my late grandparents, Sentenari Tolo and Tupou Tolo: Fa'afetai tele mo le lua tapūa'iga. E ui lava ua fai i lagi le fōlaūga, ae le mafai ona galo ā'ōa'ōga ma fautuāga. O lea foi ua fa'amanuiaina au i leisi au fa'ailōga Master of Arts.</div>
 
 
---- .tall .flex-invert
+--- .tall .flex-invert .gold
 
 # Cymone Bre'Ahn Mack, M.A.
 
@@ -489,17 +507,17 @@ Advisor
 
 --- &twocol .tall .compact
 
-# Connie Chang, Ph.D.
+# Connie Ying-Chung Chang, Ph.D.
 
 ### Examining Racial Consciousness: Asian Americans and Affirmative Action<br>Chair: Mitchell Chang
 
 *** =left
 
-<div class="img-wrapper" style="height:98%;transform:translate(15px, -15px);"><img src="./assets/photos/conniec-collage.jpg"></div>
+<div class="img-wrapper" style="height:98%;transform:translate(20px, -15px);"><img src="./assets/photos/conniec.jpg"></div>
 
 *** =right
 
-<div class="textbox" style="width:225px;transform:translateX(15px);">Thank you to the HEOC faculty and friends, especially Mitch, for believing in and supporting me. It's been an honor to learn from each and everyone of you. I will carry with me the important lessons of critical research, empathy, and advocacy for social change.</div>
+<div class="textbox" style="width:225px;transform:translateX(20px);">Thank you to the HEOC faculty and friends, especially Mitch, for believing in and supporting me. It's been an honor to learn from each and everyone of you. I will carry with me the important lessons of critical research, empathy, and advocacy for social change.</div>
 
 --- &twocol .l60-r38
 
@@ -515,7 +533,7 @@ Advisor
 
 <div class="textbox" style="width:260px">This dissertation reflects the power and support of community: the generations of people who fought for racial justice; the people who are fighting for it now; the relationships, friendships, laughter, and spaces that sustain us as the fight continues. To my community: friends, my amazing cohort, femtors, mentors, a most wonderful chair and committee, and of course, my parents: thank you always.</div>
 
---- &twocol .tall
+--- &twocol .tall .gold
 
 # Kari George, Ph.D.
 
@@ -596,6 +614,16 @@ Chair
 
 <div class="slide">
     <img src="./assets/slideshow/A248FF3B-D477-4438-BEA4-55AA3324AEC2.JPG">
+  </div><div class="slide">
+    <img src="./assets/slideshow/Elaine Jessica Tamargo - DSC06960.JPG">
+  </div><div class="slide">
+    <img src="./assets/slideshow/Elaine Jessica Tamargo - DSC07005.JPG">
+  </div><div class="slide">
+    <img src="./assets/slideshow/Elaine Jessica Tamargo - JZEE4371.jpeg">
+  </div><div class="slide">
+    <img src="./assets/slideshow/Elaine Jessica Tamargo - NWGBE6619.JPG">
+  </div><div class="slide">
+    <img src="./assets/slideshow/Elaine Jessica Tamargo - WGRTE6892.JPG">
   </div><div class="slide">
     <img src="./assets/slideshow/IMG-0796.JPG">
   </div><div class="slide">
