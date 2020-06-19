@@ -438,7 +438,7 @@ Advisor
 <div class="textbox" style="width:300px">Sending a heartfelt thanks to my village—my cohort and HEOC family, and my friends, family, and sidekick—for all the support that made this possible!</div>
 
 
---- .custom .tall
+--- .custom .tall .compact
 
 # Die Hu, Ph.D.
 
