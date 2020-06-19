@@ -411,7 +411,7 @@ Advisor
 
 # Katherine Cho, Ph.D.
 
-### How Did We Get Here? Actually We've Always Been: Examining Institutional Responses to Campus Racism and Student Activism<br>Chairs: Sylvia Hurtado
+### How Did We Get Here? Actually We've Always Been: Examining Institutional Responses to Campus Racism and Student Activism<br>Chair: Sylvia Hurtado
 
 *** =left
 
