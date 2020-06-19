@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;1,400&display=swap');
+
 /* Universal */
 
 body {
@@ -11,7 +13,7 @@ body {
 }
 
 .reveal h1 {
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 .reveal h2 {
@@ -20,8 +22,9 @@ body {
 
 .reveal h3 {
   padding: 8px;
-  margin: 15px auto;
+  margin: 20px auto 30px;
   border: 2px solid black;
+  background-color: rgba(255, 255, 255, 0.4);
   width: fit-content;
   line-height: 120%;
 }
@@ -43,8 +46,6 @@ body {
   display: flex;
   justify-content: space-around;
   height: 400px;
-  /*width: 900px;
-  margin: 0 auto !important;*/
 }
 
 .slides > .container {
@@ -79,21 +80,7 @@ body {
   width: 450px;
 }
 
-.reveal .footnote {
-  margin-bottom: 20px;
-  font-style: italic;
-  color: gray;
-}
-
 /* Layout */
-
-.reveal .color-box {
-  width: 16px;
-  height: 16px;
-  border: 1px solid black;
-  display: inline-block;
-  vertical-align: middle;
-}
 
 .reveal .left, .reveal .right {
   width: 45%;
@@ -109,6 +96,14 @@ body {
 
 .reveal .right {
   float: right;
+}
+
+.reveal .l60-r30 .left {
+  width: 60%;
+}
+
+.reveal .l60-r30 .right {
+  width: 30%;
 }
 
 .reveal .flex-container {
@@ -179,12 +174,12 @@ body {
 
 /* Components */
 
-.reveal .quote {
-  width: 200px;
-  padding: 25px 40px;
+.reveal .quote, .reveal .textbox {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  width: 250px;
+  padding: 20px 35px;
   margin: auto;
-  position: relative;
-  height: fit-content;
 }
 
 .reveal .img-wrapper {
@@ -202,17 +197,22 @@ body {
   transform: translate(10px, 10px);
 }
 
-.reveal .fa {
-  font-size: 25px;
-  position: absolute;
+.reveal .quote p:nth-of-type(1):before {
+  font-family: "FontAwesome";
+  font-size: 14px;
+  content: "\f10d";
+  padding-right: 5px;
+  vertical-align: super;
 }
 
-.reveal .fa-quote-left {
-  top: 7px;
-  left: 10px;
+.reveal .quote p:nth-of-type(1):after {
+  font-family: "FontAwesome";
+  font-size: 14px;
+  content: "\f10e";
+  padding-left: 5px;
+  vertical-align: sub;
 }
 
-.reveal .fa-quote-right {
-  bottom: 5px;
-  right: 10px;
+.reveal .quote p {
+  margin: 10px 0;
 }

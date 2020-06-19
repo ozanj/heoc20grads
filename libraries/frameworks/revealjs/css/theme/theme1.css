@@ -35,14 +35,44 @@ body {
 /* Components */
 
 .reveal .quote {
-  color: #FFC72C;
+  background-color: #FFB81C;
+  outline: 4px dotted black;
+  outline-offset: 3px;
+  border: 6px double black;
+  color: black;
+}
+
+.reveal .textbox {
+  color: #FFD100;
+  background-color: black;
+  border: 3px dashed #FFD100;
+  outline: 9px solid black;
+}
+
+.reveal .blue .quote, .reveal .blue .textbox {
   background-color: #003B5C;
+  border: 4px dotted #FFD100;
+  outline: 10px solid #003B5C;
 }
 
 .reveal .img-wrapper {
+  background-color: black;
+}
+
+.reveal .blue .img-wrapper {
   background-color: #003B5C;
+  outline: 2px solid #FFD100;
+}
+
+.reveal .blue h1 {
+  color: #003B5C;
 }
 
 .reveal h3 {
   color: black;
+}
+
+.reveal .blue h3 {
+  color: #003B5C;
+  border-color: #003B5C;
 }
