@@ -282,17 +282,17 @@ Large landscape image on top (or bottom)
 
 --- &twocol .l60-r30
 
-# Demeturie Gogue, M.A.
+# Demeturie Toso-Lafaele Gogue, M.A.
 
 ### Advisor: Mitchell Chang
 
 *** =left
 
-<div class="img-wrapper" style=""><img src="./assets/photos/demeturieg.jpg"></div>
+<div class="img-wrapper" style="transform:translate(-30px, -10px);"><img src="./assets/photos/demeturieg.jpg"></div>
 
 *** =right
 
-<div class="textbox" style="width:250px;margin-left:10px;">This degree is not only a representation of my accomplishments but also the love and support that family, friends, and mentors have poured into me. I am tall because I stand on the shoulders of giants.<br><br>To my late grandparents, Sentenari Tolo and Tupou Tolo: Fa'afetai tele mo le lua tapūa'iga. E ui lava ua fai i lagi le fōlaūga, ae le mafai ona galo ā'ōa'ōga ma fautuāga. O lea foi ua fa'amanuiaina au i leisi au fa'ailōga Master of Arts.</div>
+<div class="textbox" style="width:250px;">This degree is not only a representation of my accomplishments but also the love and support that family, friends, and mentors have poured into me. I am tall because I stand on the shoulders of giants.<br><br>To my late grandparents, Sentenari Tolo and Tupou Tolo: Fa'afetai tele mo le lua tapūa'iga. E ui lava ua fai i lagi le fōlaūga, ae le mafai ona galo ā'ōa'ōga ma fautuāga. O lea foi ua fa'amanuiaina au i leisi au fa'ailōga Master of Arts.</div>
 
 
 --- .tall .flex-invert
