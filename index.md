@@ -487,7 +487,7 @@ Advisor
 
 <div class="textbox" style="">HEOC, you have given me so much over the past four years! Thank you to all the faculty who have taught me so much about our field. Thank you to my advisor, Santa Cecilia, you are everything I prayed for in an advisor and more. And thank you to the BEST cohort of people brought together in HEOC's history, my doctoral journey would have not been the same without your enriching presence... each of you are my family forever</div>
 
---- &twocol .tall
+--- &twocol .tall .compact
 
 # Connie Chang, Ph.D.
 
@@ -495,13 +495,11 @@ Advisor
 
 *** =left
 
-<div class="img-wrapper" style="transform:translateY(-20px);height:98%;"><img src="./assets/photos/conniec-left.jpg"></div>
+<div class="img-wrapper" style="height:98%;transform:translate(15px, -15px);"><img src="./assets/photos/conniec-collage.jpg"></div>
 
 *** =right
 
-<div class="img-wrapper" style="height:55%"><img src="./assets/photos/conniec-right.jpg"></div>
-
-<div class="textbox" style="width:340px;">Thank you to the HEOC faculty and friends, especially Mitch, for believing in and supporting me. It's been an honor to learn from each and everyone of you. I will carry with me the important lessons of critical research, empathy, and advocacy for social change.</div>
+<div class="textbox" style="width:225px;transform:translateX(15px);">Thank you to the HEOC faculty and friends, especially Mitch, for believing in and supporting me. It's been an honor to learn from each and everyone of you. I will carry with me the important lessons of critical research, empathy, and advocacy for social change.</div>
 
 --- &twocol .l60-r38
 
