@@ -275,7 +275,7 @@ Large landscape image on top (or bottom)
 
 *** =left
 
-`r create_img('noelb.jpg')`
+`r create_img('noelb.JPG')`
 
 *** =right
 
@@ -438,7 +438,7 @@ Advisor
 
 *** =right
 
-`r create_img('karig-right.jpg', style='height:60%')`
+`r create_img('karig-right.JPG', style='height:60%')`
 
 `r create_textbox('Sending a heartfelt thanks to my village—my cohort and HEOC family, and my friends, family, and sidekick—for all the support that made this possible!', style='width:300px')`
 

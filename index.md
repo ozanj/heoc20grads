@@ -243,7 +243,7 @@ Large landscape image on top (or bottom)
 
 *** =left
 
-<div class="img-wrapper" style=""><img src="./assets/photos/noelb.jpg"></div>
+<div class="img-wrapper" style=""><img src="./assets/photos/noelb.JPG"></div>
 
 *** =right
 
@@ -406,7 +406,7 @@ Advisor
 
 *** =right
 
-<div class="img-wrapper" style="height:60%"><img src="./assets/photos/karig-right.jpg"></div>
+<div class="img-wrapper" style="height:60%"><img src="./assets/photos/karig-right.JPG"></div>
 
 <div class="textbox" style="width:300px">Sending a heartfelt thanks to my village—my cohort and HEOC family, and my friends, family, and sidekick—for all the support that made this possible!</div>
 
