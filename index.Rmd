@@ -76,6 +76,10 @@ for (i in images) {
 
 # Professor Patricia McDonough, HEOC Division Head
 
+*** =info
+
+`r create_img('patm-speaker.jpg', style="height:350px")`
+
 --- .speaker .tall
 
 # Dr. Natacha M. Cesar-Davis

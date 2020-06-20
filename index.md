@@ -220,6 +220,10 @@ Spring 2020
 
 # Professor Patricia McDonough, HEOC Division Head
 
+*** =info
+
+<div class="img-wrapper" style="height:350px"><img src="./assets/photos/patm-speaker.jpg"></div>
+
 --- .speaker .tall
 
 # Dr. Natacha M. Cesar-Davis
