@@ -1,5 +1,65 @@
 $(function() {
   
+  // Keyboard Controls
+
+  var horizontalKeyboard = {
+    78: 'right',  // n
+    34: 'right',  // page down
+    72: 'left',  // h
+    37: 'left',  // left
+    76: 'right',  // l
+    39: 'right',  // right
+    32: 'right',  // space
+    80: 'left',  // p
+    33: 'left',  // page up
+    40: 'down'  // down
+  };
+
+  var verticalKeyboard = {
+    78: 'down',  // n
+    34: 'down',  // page down
+    72: null,  // h
+    37: null,  // left
+    76: null,  // l
+    39: null,  // right
+    32: 'down',  // space
+    80: 'up',  // p
+    33: 'up',  // page up
+    40: 'down'  // down
+  };
+
+  function handleVertical() {
+    console.log('verticalKeyboard');
+    Reveal.configure({
+      keyboard: verticalKeyboard
+    });
+  }
+  
+  function handleHorizontal() {
+    console.log('horizontalKeyboard');
+    Reveal.configure({
+      keyboard: horizontalKeyboard
+    });
+  }
+
+  // Updating Navigation
+  
+  if (Reveal.getState().indexv > 0) {  // regular vertical slide
+    handleVertical();
+  } else {  // regular horizontal slide
+    handleHorizontal();
+  }
+
+  Reveal.addEventListener('slide-vertical', function() {
+    handleVertical();
+  }, false);
+
+  Reveal.addEventListener('slide-horizontal', function() {
+    handleHorizontal();
+  }, false);
+  
+  // Slideshow
+  
   function getRandomInt(max) {
     return Math.floor(Math.random() * Math.floor(max));
   }
@@ -32,6 +92,8 @@ $(function() {
     document.querySelector('#slides-music').play();
   });
   
+  // Theme + Background
+  
   $('.theme-button').on('click', function(e) {
     var theme = e.target.innerHTML;
     var el = document.getElementById('theme');
@@ -46,6 +108,30 @@ $(function() {
       $('.slide-background').removeClass('hide');
       e.target.dataset.bg = 'on';
     }
+  });
+  
+  // Audio
+  
+  $('.audio-button').on('click', function(e) {
+    if (e.currentTarget.dataset.status === 'off') {
+      document.getElementById(e.currentTarget.dataset.id).play();
+      $(this).find('i').removeClass('fa-play-circle');
+      $(this).find('i').addClass('fa-pause-circle');
+      e.currentTarget.dataset.status = 'on';
+    } else {
+      document.getElementById(e.currentTarget.dataset.id).pause();
+      $(this).find('i').removeClass('fa-pause-circle');
+      $(this).find('i').addClass('fa-play-circle');
+      e.currentTarget.dataset.status = 'off';
+    }
+  });
+  
+  Reveal.addEventListener('slidechanged', function() {
+    $('.audio-button').each(function(e) {
+      $(this).find('i').removeClass('fa-pause-circle');
+      $(this).find('i').addClass('fa-play-circle');
+      $(this)[0].dataset.status = 'off';
+    });
   });
   
 });

@@ -30,6 +30,10 @@ body {
   line-height: 120%;
 }
 
+.reveal a {
+  cursor: pointer;
+}
+
 .reveal .slide-background:before {
   background-repeat: repeat-x;
   background-position: center top;
@@ -248,4 +252,11 @@ body {
   content: "\f10e";
   padding-left: 5px;
   vertical-align: sub;
+}
+
+/* Arrow Controls */
+
+.slide-vertical .reveal .controls .navigate-left,
+.slide-vertical .reveal .controls .navigate-right {
+  display: none;
 }

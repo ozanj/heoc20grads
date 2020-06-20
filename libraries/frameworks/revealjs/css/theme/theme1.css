@@ -74,3 +74,15 @@ body {
   color: black;
   border: 2px solid black;
 }
+
+/* Audio */
+
+.audio-button {
+  color: #2774AE;
+  font-size: 25px !important;
+  transition: color .4s ease;
+}
+
+.audio-button:hover {
+  color: #8BB8E8;
+}
