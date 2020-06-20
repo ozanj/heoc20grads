@@ -1,5 +1,9 @@
 $(function() {
   
+  function getRandomInt(max) {
+    return Math.floor(Math.random() * Math.floor(max));
+  }
+  
   var slideshows = document.querySelectorAll('.slides-wrapper');
   
   // Apply to all slideshows that you defined
@@ -9,17 +13,14 @@ $(function() {
   function initSlideShow(slideshow) {
     var slides = document.querySelectorAll(`#${slideshow.id} .slide`); // Get an array of slides
 
-    var index = 0, time = 2000;
+    var index = getRandomInt(slides.length), time = 2000;
     slides[index].classList.add('active');  
     
     setInterval( () => {
       slides[index].classList.remove('active');
       
-      // Go over each slide incrementing the index
-      index++;
-      
-      // If you go over all slides, restart the index to show the first slide and start again
-      if (index === slides.length) index = 0; 
+      // Choose a random index
+      index = getRandomInt(slides.length);
       
       slides[index].classList.add('active');
 
