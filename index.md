@@ -506,7 +506,7 @@ Large landscape image on top (or bottom)
 
 --- &twocol .compact
 
-# Elizabeth Martin, M.A.
+# Elizabeth Anne Martin, M.A.
 
 ### Advisors: Kevin Eagan & Cecilia Rios-Aguilar
 
@@ -530,7 +530,7 @@ Large landscape image on top (or bottom)
 
 --- &twocol .gold
 
-# Kaitlyn Stormes, M.A.
+# Kaitlyn Nicole Stormes, M.A.
 
 ### Advisor: Linda Sax
 
@@ -567,7 +567,7 @@ Advisor: Mitchell Chang
 
 --- &twocol
 
-# Natacha Cesar-Davis, Ph.D.
+# Natacha Marcia Cesar-Davis, Ph.D.
 
 ### The Unguided Path: A Qualitative Study About the Vocational Identity Development of Black and Latinx Emerging Adults at a Community College<br>Chairs: Cecilia Rios-Aguilar & Carola Suarez-Orozco
 
@@ -595,7 +595,7 @@ Advisor: Mitchell Chang
 
 --- &twocol .l60-r38
 
-# Katherine Cho, Ph.D.
+# Katherine S. Cho, Ph.D.
 
 ### How Did We Get Here? Actually We've Always Been: Examining Institutional Responses to Campus Racism and Student Activism<br>Chair: Sylvia Hurtado
 
