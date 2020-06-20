@@ -254,6 +254,18 @@ body {
   vertical-align: sub;
 }
 
+/* Audio + Video */
+
+.audio-button {
+  transform: translateY(-20px);
+  display: block;
+}
+
+.vertical video {
+  height: 500px;
+  margin-top: 30px;
+}
+
 /* Arrow Controls */
 
 .slide-vertical .reveal .controls .navigate-left,

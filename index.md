@@ -255,11 +255,19 @@ Spring 2020
 <div class="quote" style=""><p>You have to decide who you are and force the world to deal with you, not with its idea of you.</p><p>- James Baldwin</p></div>
 <div class="textbox" style="">Thank you to my family, Tom, my friends and my cohort for all the support to get me this far! It's been one heck of a year but thankful for all the growth, new friends, and future we have to look forward to together. Next stop: Ph.D.!</div>
 
---- &twocol .compact
+--- &twocol-vertical .compact
 
 # Daniela Conde, M.A.
 
 ### Advisor: Jessica Harris
+
+<audio id="comments">
+  <source src="./assets/audio/danielac_jessicah.mp3" type="audio/mpeg">
+</audio>
+
+<a class="audio-button" data-id="comments" data-status="off">
+  <i class="fa fa-play-circle" aria-hidden="true"></i>
+</a>
 
 *** =left
 
@@ -268,6 +276,15 @@ Spring 2020
 *** =right
 
 <div class="textbox" style="width:260px;">Esto es pa' mi familia. Esto es pa' mi gente! This is for BIPOC migrant communities.<br><br>Lo hicimos, Má! Lo hicimos, hermanas! In our togetherness, we thrive. Siempre con La Morenita a nuestro lado. Gracias for teaching me in all ways, Má, especially how to freedom-dream y como luchar! S/o to the LA (& heoc) homies too. Y aquí seguiremos pa' delante towards the Ph.D.</div>
+
+***
+
+# From Jessica Harris
+
+<video height="100%" controls>
+  <source src="./assets/videos/danielac_jessicah.MOV" type="video/mp4">
+</video>
+
 
 --- &twocol .compact
 
