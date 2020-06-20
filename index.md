@@ -448,6 +448,15 @@ Large landscape image on top (or bottom)
 
 <div class="quote" style="width:250px;transform: translateX(-60px);"><p>Be the brightest of the bunch</p><p>- Lilly Pulitzer</p></div>
 
+--- .speaker .gold
+
+# Bernard Reyes, M.A.
+
+### Advisor: Sylvia Hurtado
+
+*** =info
+
+<div class="img-wrapper" style=""><img src="./assets/photos/bernardr.JPG"></div>
 
 --- &twocol .gold
 
@@ -477,15 +486,10 @@ Advisor: Walter Allen
 
 <br>
 
-**Name, M.A.**
+**Elisa Chang Huh, M.A.**
 
-Advisor
+Advisor: Mitchell Chang
 
-<br>
-
-**Name, M.A.**
-
-Advisor
 
 ---
 
@@ -578,6 +582,37 @@ Advisor
 
 <div class="textbox" style="">Heartfelt thanks to everyone who has helped me along the journey!</div>
 
+--- &twocol .tall .gold
+
+# Channel C. McLewis, Ph.D.
+
+### Brave Black Women on white Campuses: Black Undergraduate Women’s Experiences with Gendered Racism<br>Chair: Walter Allen
+
+*** =left
+
+<div class="img-wrapper" style="transform:translate(10px, -20px);height:98%;"><img src="./assets/photos/channelm-left.jpeg"></div>
+
+*** =right
+
+<div class="img-wrapper" style="height:60%;transform:translate(15px, -10px);"><img src="./assets/photos/channelm-right.jpeg"></div>
+
+<div class="textbox" style="width:305px;transform:translateX(20px);">Thank you for the community of supporters who sowed seeds of sacrifice, prayed relentlessly, and encouraged me throughout this journey. We have truly come a mighty long way.</div>
+
+
+--- &twocol .tall .compact
+
+# Christina Zavala, Ph.D.
+
+### The strength of family ties: Stories of familial support in shaping the educational trajectories of Latina/x college students<br>Chair: Cecilia Rios-Aguilar
+
+*** =left
+
+<div class="img-wrapper" style="height:98%;transform:translate(30px, -15px);"><img src="./assets/photos/christinaz.jpeg"></div>
+
+*** =right
+
+<div class="textbox" style="width:225px;transform:translateX(35px);">This journey would not have been possible without the love and encouragement from my family. We did it y'all!! Thank you to the HEOC faculty who I have had the honor to work with and learn from over the years. A huge thank you to my community back in Texas and my HEOC, UCLA, and LA community: I will forever be grateful for your support and friendship every step of the way. Special shoutout to my cohort and my committee for the endless support that y'all have given me over the years.</div>
+
 --- .info
 
 # Doctor of Philosophy in Education
@@ -590,21 +625,6 @@ Beyond Acculturation: Towards a Non-Deficit View of International Students' Cult
 
 Chairs: Robert Rhoads & Patricia McDonough
 
-<br>
-
-**Name, Ph.D.**
-
-Dissertation Title
-
-Chair
-
-<br>
-
-**Name, Ph.D.**
-
-Dissertation Title
-
-Chair
 
 --- .title .credit
 
