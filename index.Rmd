@@ -522,14 +522,14 @@ Advisor: Mitchell Chang
 
 `r create_img('channelm-right.jpeg', style='height:60%;transform:translate(15px, -10px);')`
 
-`r create_textbox('Thank you for the community of supporters who sowed seeds of sacrifice, prayed relentlessly, and encouraged me throughout this journey. We have truly come a mighty long way.', style='width:305px;transform:translateX(20px);')`
+`r create_textbox('Thank you to the community of supporters who sowed seeds of sacrifice, prayed relentlessly, and encouraged me throughout this journey. We have truly come a mighty long way.', style='width:305px;transform:translateX(20px);')`
 
 
 --- &twocol .tall .compact
 
 # Christina Zavala, Ph.D.
 
-### The strength of family ties: Stories of familial support in shaping the educational trajectories of Latina/x college students<br>Chair: Cecilia Rios-Aguilar
+### The Strength of Family Ties: Stories of Familial Support in Shaping the Educational Trajectories of Latina/x College Students<br>Chair: Cecilia Rios-Aguilar
 
 *** =left
 

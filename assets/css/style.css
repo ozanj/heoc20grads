@@ -168,8 +168,6 @@ body {
   min-width: 100%;
   min-height: 100%;
   opacity: 0;
-  position: absolute;
-  top: -20%;
   transition: opacity 1s;
   -webkit-transition: opacity 1s;
 }
@@ -180,6 +178,9 @@ body {
 
 .reveal .slide img {
   width: 100%;
+  position: absolute;
+  top: -20%;
+  left: 0;
 }
 
 .reveal .credit h1 {
@@ -192,7 +193,7 @@ body {
   height: 500px;
 }
 
-.reveal .credit .slides-wrapper .slide {
+.reveal .credit .slide img {
   top: 0;
 }
 
