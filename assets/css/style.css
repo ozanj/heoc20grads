@@ -266,6 +266,67 @@ body {
   margin-top: 30px;
 }
 
+/* Components + Modals */
+
+.reveal .container img {
+  filter: grayscale(0);
+  -webkit-backface-visibility: hidden;
+  transition: all 0.3s ease-in-out;
+}
+
+.reveal .container img:hover {
+  filter: grayscale(80%);
+  cursor: pointer;
+}
+
+.reveal .container img.disabled {
+  filter: grayscale(80%);
+  pointer-events: none;
+}
+
+/* Modals */
+
+.reveal div.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding: 15px;
+  left: 50%;
+  top: 48%;
+  background-color: black;
+  border: solid 1px gray;
+  transform: translate(-50%, -50%);
+}
+
+.modal p {
+  margin: 0;
+  font-size: 14px;
+  text-align: center;
+  line-height: 1.5em;
+  font-weight: 300;
+}
+
+.modal img {
+  max-width: 800px;
+  max-height: 600px;
+  margin-top: 10px;
+}
+
+.modal .close {
+  z-index: 5;
+  float: right;
+  margin-top: -5px;
+  color: white;
+  opacity: 1;
+  transition: opacity 0.3s ease;
+  -webkit-backface-visibility: hidden;
+}
+
+.modal .close:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
 /* Arrow Controls */
 
 .slide-vertical .reveal .controls .navigate-left,

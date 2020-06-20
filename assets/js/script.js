@@ -132,6 +132,26 @@ $(function() {
       $(this).find('i').addClass('fa-play-circle');
       $(this)[0].dataset.status = 'off';
     });
+    $('.modal').fadeOut();
+    $('.container img').removeClass('disabled');
+  });
+  
+  // Modal
+
+  $('.reveal .container img').on('click', function() {
+    var src = $(this).attr('src');
+
+    var $slide = $(this).closest('.horizontal');
+
+    $slide.find('.modal img').attr('src', src);
+
+    $(this).closest('.horizontal').find('.modal').fadeIn();
+    $(this).closest('.horizontal').find('.container img').addClass('disabled');
+  });
+
+  $('.close').on('click', function() {
+    $(this).closest('.horizontal').find('.modal').fadeOut();
+    $(this).closest('.horizontal').find('.container img').removeClass('disabled');
   });
   
 });
