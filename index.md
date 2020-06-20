@@ -332,7 +332,7 @@ Spring 2020
 
 --- .tall .flex-invert .gold
 
-# Cymone Bre'Ahn Mack, M.A.
+# Cymone Mack, M.A.
 
 ### Advisor: Walter Allen
 
