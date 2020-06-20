@@ -606,7 +606,7 @@ Dissertation Title
 
 Chair
 
---- .title
+--- .title .credit
 
 # Congratulations Graduates!
 

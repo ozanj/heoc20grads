@@ -182,12 +182,17 @@ body {
   width: 100%;
 }
 
-.reveal #slides-end {
-  margin-top: 20px;
+.reveal .credit h1 {
+  background-image: url('../images/confetti.gif');
+  padding: 20px 0;
+}
+
+.reveal .credit .slides-wrapper {
+  margin-top: 10px;
   height: 500px;
 }
 
-.reveal #slides-end .slide {
+.reveal .credit .slides-wrapper .slide {
   top: 0;
 }
 
