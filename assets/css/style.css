@@ -210,6 +210,10 @@ body {
   width: 270px;
   padding: 25px 35px;
   margin: auto;
+  filter: grayscale(0);
+  -webkit-backface-visibility: hidden;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
 }
 
 .reveal .img-wrapper {
@@ -238,7 +242,8 @@ body {
   font-style: italic;
 }
 
-.reveal .quote p:nth-of-type(1):before {
+.reveal .quote p:nth-of-type(1):before,
+.modal .content p:not(.plain-text):nth-of-type(1):before {
   font-family: "FontAwesome";
   font-size: 14px;
   content: "\f10d";
@@ -246,7 +251,8 @@ body {
   vertical-align: super;
 }
 
-.reveal .quote p:nth-of-type(1):after {
+.reveal .quote p:nth-of-type(1):after,
+.modal .content p:not(.plain-text):nth-of-type(1):after {
   font-family: "FontAwesome";
   font-size: 14px;
   content: "\f10e";
@@ -272,16 +278,20 @@ body {
   filter: grayscale(0);
   -webkit-backface-visibility: hidden;
   transition: all 0.3s ease-in-out;
+  cursor: pointer;
 }
 
 .reveal .container img:hover {
   filter: grayscale(80%);
-  cursor: pointer;
 }
 
-.reveal .container img.disabled {
+.reveal .container .disabled {
   filter: grayscale(80%);
   pointer-events: none;
+}
+
+.reveal .quote:hover, .reveal .textbox:hover {
+  filter: grayscale(80%);
 }
 
 /* Modals */
@@ -299,11 +309,13 @@ body {
 }
 
 .modal p {
-  margin: 0;
-  font-size: 14px;
+  margin: 30px 40px 20px;
+  font-size: 16px;
   text-align: center;
   line-height: 1.5em;
-  font-weight: 300;
+  font-weight: 600;
+  color: white;
+  max-width: 400px;
 }
 
 .modal img {

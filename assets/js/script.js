@@ -133,25 +133,33 @@ $(function() {
       $(this)[0].dataset.status = 'off';
     });
     $('.modal').fadeOut();
-    $('.container img').removeClass('disabled');
+    $('.container img, .quote, .textbox').removeClass('disabled');
   });
   
   // Modal
 
-  $('.reveal .container img').on('click', function() {
-    var src = $(this).attr('src');
-
+  $('.reveal .container img, .reveal .quote, .reveal .textbox').on('click', function() {
     var $slide = $(this).closest('.horizontal');
-
-    $slide.find('.modal img').attr('src', src);
+    
+    if ($(this).is('img')) {
+      var src = $(this).attr('src');
+      var content = `<img src="${src}" />`;
+      $slide.find('.modal .content').html(content);
+    } else if ($(this).hasClass('quote')) {
+      var quote = $(this).html();
+      $slide.find('.modal .content').html(quote);
+    } else {
+      var text = $(this).html();
+      $slide.find('.modal .content').html(`<p class="plain-text">${text}</p>`);
+    }
 
     $(this).closest('.horizontal').find('.modal').fadeIn();
-    $(this).closest('.horizontal').find('.container img').addClass('disabled');
+    $(this).closest('.horizontal').find('.container img, .quote, .textbox').addClass('disabled');
   });
 
   $('.close').on('click', function() {
     $(this).closest('.horizontal').find('.modal').fadeOut();
-    $(this).closest('.horizontal').find('.container img').removeClass('disabled');
+    $(this).closest('.horizontal').find('.container img, .quote, .textbox').removeClass('disabled');
   });
   
 });
