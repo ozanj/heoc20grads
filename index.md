@@ -609,19 +609,19 @@ Advisor: Mitchell Chang
 
 --- &twocol .tall .gold
 
-# Kari George, Ph.D.
+# Kari Lynn George, Ph.D.
 
 ### Decoding Doctoral Student Departure: A Mixed-Methods Study of Faculty Perceptions and Student Realities in Computing<br>Chair: Linda Sax
 
 *** =left
 
-<div class="img-wrapper" style="transform:translateY(-20px);height:98%;"><img src="./assets/photos/karig-left.jpg"></div>
+<div class="img-wrapper" style="transform:translate(20px, -20px);height:98%;"><img src="./assets/photos/karig-left.jpg"></div>
 
 *** =right
 
-<div class="img-wrapper" style="height:60%"><img src="./assets/photos/karig-right.JPG"></div>
+<div class="img-wrapper" style="transform:translate(20px, -15px);height:65%"><img src="./assets/photos/karig-right.JPG"></div>
 
-<div class="textbox" style="width:300px">Sending a heartfelt thanks to my village—my cohort and HEOC family, and my friends, family, and sidekick—for all the support that made this possible!</div>
+<div class="textbox" style="transform:translateX(28px);width:300px">Sending a heartfelt thanks to my village—my cohort and HEOC family, and my friends, family, and sidekick—for all the support that made this possible!</div>
 
 
 --- .custom .tall .compact
