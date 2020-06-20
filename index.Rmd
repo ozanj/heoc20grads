@@ -420,21 +420,3 @@ for (i in images) {
   <br><br>
   <a href="https://github.com/ozanj/heoc20grads" target="_blank">github.com/ozanj/heoc20grads</a>
 </div>
-
---- &slide-vertical
-
-# Audio Slide
-
-<audio id="comments">
-  <source src="./assets/audio/pomp-and-circumstance.mp3" type="audio/mpeg">
-</audio>
-
-<a class="audio-button" data-id="comments" data-status="off">
-  <i class="fa fa-play-circle" aria-hidden="true"></i>
-</a>
-
-***
-
-# Video Slide
-
-<iframe style="margin-top:50px" width="560" height="315" src="https://www.youtube.com/embed/Kw-_Ew5bVxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
