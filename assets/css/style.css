@@ -74,7 +74,7 @@ body {
 }
 
 .reveal .info .container {
-    display: none;
+  display: none;
 }
 
 .reveal .info p {
@@ -157,11 +157,23 @@ body {
   font-size: 16px;
 }
 
+.reveal .logo1 {
+  width: 75px;
+  position: absolute;
+  transform: translate(-450px, -25px);
+}
+
+.reveal .logo2 {
+  width: 78px;
+  position: absolute;
+  transform: translate(375px, -22px);
+}
+
 /* Slideshow */
 
 .reveal .slides-wrapper {
   width: 900px;
-  height: 400px;
+  height: 420px;
   position: relative;
   margin: 0 auto;
   overflow: hidden;
@@ -182,6 +194,7 @@ body {
 
 .reveal .slide img {
   width: 100%;
+  min-height: 100%;
   position: absolute;
   top: -20%;
   left: 0;

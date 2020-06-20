@@ -39,6 +39,9 @@ create_textbox <- function(txt='Lorem ipsum dolor sit amet, consectetur adipisci
 }
 ```
 
+<img class="logo1" src="./assets/images/logo1.png" />
+<img class="logo2" src="./assets/images/logo2.gif" />
+
 # UCLA HEOC<br>MA and PhD Commencement
 
 Spring 2020
@@ -50,8 +53,11 @@ img_dir <- file.path('.', 'assets', 'slideshow')
 images <- list.files(img_dir)
 
 for (i in images) {
+  top <- str_match(i, '^top(\\d+)')[1, 2]
+  val <- ifelse(is.na(top), 20, top)
+  
   cat('<div class="slide">
-    <img src="', file.path(img_dir, i), '">
+    <img src="', file.path(img_dir, i), '" style="top:-', val, '%">
   </div>', sep = '')
 }
 ```
@@ -59,10 +65,6 @@ for (i in images) {
 </div>
 
 <a href="https://ozanj.github.io/heoc20grads/">ozanj.github.io/heoc20grads</a>
-
-<button class="theme-button">theme1</button>
-<button class="theme-button">theme2</button>
-<button class="bg-button" data-bg="on">toggle bg</button>
 
 <audio loop data-autoplay id="slides-music">
   <source src="./assets/audio/pomp-and-circumstance.mp3" type="audio/mpeg">
@@ -396,6 +398,9 @@ Chairs: Robert Rhoads & Patricia McDonough
 
 --- .title .credit
 
+<img class="logo1" src="./assets/images/logo1.png" />
+<img class="logo2" src="./assets/images/logo2.gif" />
+
 # Congratulations Graduates!
 
 <div id="slides-end" class="slides-wrapper">
@@ -418,6 +423,11 @@ for (i in images) {
 </audio>
 
 ---
+
+<div style="margin:50px;padding:0 250px">
+  <img class="logo1" src="./assets/images/logo1.png" />
+  <img class="logo2" src="./assets/images/logo2.gif" />
+</div>
 
 <div style="margin-top:250px;">
   Created using R/RStudio
