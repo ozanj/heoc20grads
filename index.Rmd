@@ -70,6 +70,28 @@ for (i in images) {
   <source src="./assets/audio/pomp-and-circumstance.mp3" type="audio/mpeg">
 </audio>
 
+--- .info
+
+# Zoom Event Recordings
+
+<br><br>
+
+**June 20, 2020**
+
+3:30-4:40PM Pacific Time
+
+<br>
+
+**Opening Remarks & Speakers**
+
+[Link to video](https://www.dropbox.com/s/tlkbwqmefm34xaw/heocgrad_speakers.mp4?dl=0)
+
+<br>
+
+**Presentation of Degrees Ceremony**
+
+[Link to video](https://www.dropbox.com/s/jc5wag5e6q7t4dc/heocgrad_students.mp4?dl=0)
+
 ---
 
 ## Speakers
